@@ -43,7 +43,7 @@ cd sms-spam-classifier
 
 A simple machine learning web app built with **Streamlit** that classifies SMS messages as **Spam** or **Ham (Not Spam)**.
 
-...
+
 
 ## 📚 Requirements
 
