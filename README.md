@@ -32,6 +32,21 @@ This project uses **Natural Language Processing (NLP)** and a **Naive Bayes clas
 
 ---
 
+
+## 📚 Requirements
+
+Python 3.7 or higher  
+Trained model and vectorizer must be present in the same directory as `app.py`.
+
+## 🧑‍💻 Author
+
+**Ali Abbas (Lee)**  
+GitHub: [aliabbas70](https://github.com/aliabbas70)
+
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE).
+
 ## 🚀 How to Run the App Locally
 
 1. **Clone the repo:**
@@ -39,5 +54,7 @@ This project uses **Natural Language Processing (NLP)** and a **Naive Bayes clas
 ```bash
 git clone https://github.com/aliabbas70/sms-spam-classifier.git
 cd sms-spam-classifier
+
+
 
 
