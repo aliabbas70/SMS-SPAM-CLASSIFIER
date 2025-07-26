@@ -7,6 +7,7 @@ from nltk.stem.porter import PorterStemmer
 import string
 from nltk.corpus import stopwords
 ps=PorterStemmer()
+from nltk.tokenize import word_tokenize
 
 def transform_text(text):
     text= text.lower()#to convert to lower case
