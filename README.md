@@ -39,3 +39,22 @@ This project uses **Natural Language Processing (NLP)** and a **Naive Bayes clas
 ```bash
 git clone https://github.com/aliabbas70/sms-spam-classifier.git
 cd sms-spam-classifier
+# 📱 SMS Spam Classifier
+
+A simple machine learning web app built with **Streamlit** that classifies SMS messages as **Spam** or **Ham (Not Spam)**.
+
+...
+
+## 📚 Requirements
+
+Python 3.7 or higher  
+Trained model and vectorizer must be present in the same directory as `app.py`.
+
+## 🧑‍💻 Author
+
+**Ali Abbas (Lee)**  
+GitHub: [aliabbas70](https://github.com/aliabbas70)
+
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE).
