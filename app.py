@@ -2,12 +2,17 @@
 import streamlit as st
 import pickle
 import nltk
-nltk.download('punkt')
+
+import nltk
+
 from nltk.stem.porter import PorterStemmer
 import string
 from nltk.corpus import stopwords
 ps=PorterStemmer()
 from nltk.tokenize import word_tokenize
+nltk.download('punkt')
+nltk.download('stopwords')
+
 
 def transform_text(text):
     text= text.lower()#to convert to lower case
